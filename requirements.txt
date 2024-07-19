@@ -1,5 +1,6 @@
-voila
-fastai
-pillow<7
+voila==0.5.7 
+fastai==2.7.15 
+pillow==10.4.0
 packaging
-ipywidgets==7.5.1
+ipywidgets==8.1.3
+torch==2.3.1
