@@ -34,7 +34,7 @@ Welcome to the Bear Classifier repository! This project contains a powerful clas
 4. **Open your browser** and navigate to `http://localhost:7860` to view the Bear Classifier in action.
 
 ### Live Demo
-You can also try out the Bear Classifier on Gradio without any setup. [Click here to view the live demo!](#) (replace `#` with the actual link)
+You can also try out the Bear Classifier on Gradio without any setup. [Click here to view the live demo!](https://huggingface.co/spaces/ElieDisso/fastai_bearclassifier) (replace `#` with the actual link)
 
 ## 📸 Example Images
 Included in the repository are several `.jpg` files. These are example pictures you can use to test the performance of the model.
