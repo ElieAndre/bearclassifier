@@ -10,7 +10,7 @@ Welcome to the Bear Classifier repository! This project contains a powerful clas
 ## 📂 Repository Structure
 - **`app.py`**: The main script to run the classifier locally.
 - **`bearclassifierwebapp.ipynb`**: Jupyter notebook containing the model training code.
-- **`example1.jpg`, `example2.jpg`, ...**: Example pictures to test and see the performance of the model.
+- **`black.jpg`, `grizzly.jpg`, `teddy.jpg`**: Example pictures to test and see the performance of the model.
 
 ## 🚀 Getting Started
 
